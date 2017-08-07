@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "openlayers-2-build",
+  "version": "2.13.1",
+  "description": "Copyright (c) 2005-2013 OpenLayers Contributors. See authors.txt for more details.",
+  "main": "OpenLayers.debug.js",
+  "directories": {
+    "doc": "doc",
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f-me/openlayers-2-build.git"
+  },
+  "author": "",
+  "license": "(Apache-2.0 AND MIT AND BSD)",
+  "bugs": {
+    "url": "https://github.com/f-me/openlayers-2-build/issues"
+  },
+  "homepage": "https://github.com/f-me/openlayers-2-build#readme"
+}
